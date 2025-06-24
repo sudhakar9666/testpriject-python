@@ -1,0 +1,5 @@
+Hi this is python project
+
+#Creat euser name globally:
+git config --global user.email ""
+git config --global user.name ""
